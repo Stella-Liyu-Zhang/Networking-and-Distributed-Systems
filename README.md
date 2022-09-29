@@ -1,5 +1,10 @@
 # CSE 124 Reading Notes
 
+## Table of Contents
+
+- [Week 1 Lecture 2](09-27.md)
+- [Week 1 Lecture 3](09-29.md)
+
 # Chapter 1 Architectural Layers
 
 ## Protocol Layers
