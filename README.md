@@ -4,6 +4,9 @@
 
 - [Week 1 Lecture 2](09-27.md)
 - [Week 1 Lecture 3](09-29.md)
+- [Week 2 Lecture 4](10-04.md)
+  - [Week 2 Discussion](10-05%20DI.md)
+- [Week 2 Lecture 5](10-06.md)
 
 # Chapter 1 Architectural Layers
 
